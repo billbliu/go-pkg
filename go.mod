@@ -1,6 +1,6 @@
 module github.com/billbliu/go-pkg
 
-go 1.24.7
+go 1.25.1
 
 require (
 	github.com/smartystreets/goconvey v1.8.1
